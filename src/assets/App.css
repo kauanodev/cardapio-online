@@ -1,0 +1,20 @@
+:root{
+--primary-font: 'Roboto', sans-serif;
+--primary-color: #4268ff;
+}
+
+html{
+  font-family: var( --primary-font) ;
+  margin:0px;
+  padding:0px;
+}
+
+main {
+  margin:0px;
+  padding:0px;
+}
+
+body {
+  margin: 0px;
+  padding:0px;
+}
